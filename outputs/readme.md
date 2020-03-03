@@ -1,0 +1,1 @@
+Outputs directory must be present (script doesnt create it)
